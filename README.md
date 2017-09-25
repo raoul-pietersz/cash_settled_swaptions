@@ -1,4 +1,4 @@
-# cash_settled_swaptions
+# Cash settled swaptions
 A module for valuation of cash-settled swaptions
 
 # Documentation
